@@ -1,6 +1,10 @@
 The dataset for emails that are spam or not spam is in the form of Pickel File which is a dictionary
 
 https://drive.google.com/drive/u/1/folders/1yB1-TPMS6LtZKaE-zl_hZwTNMWjcAlXX
+is the file(>60 mbs).
 
-is the file(>60 mbs) This can't be uploaded to github, so here is the drive link to download. Just run any of the file in anaconda, and 
+Place this file in this directory after downloading.
+
+
+This can't be uploaded to github, so here is the drive link to download. Just run any of the file in anaconda, and 
 install the basic dependencies (Pickle is the main) to run the code :)
